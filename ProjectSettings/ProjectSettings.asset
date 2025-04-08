@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: be91269711e2bf84da301458a80d36a2
+  productGUID: 74a9bffb889db4381a2ce79e0d3214d9
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: td
+  productName: Tower Defense Udemy Tutorial
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: td
+  metroPackageName: Tower Defense Udemy Tutorial
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: td
+  metroApplicationDescription: Tower Defense Udemy Tutorial
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,11 +915,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: b1a92329-d91a-44ad-ae71-2688075da5c9
+  cloudProjectId: bcfc3f17-78d7-4d5a-bd37-162b2f38afcd
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: td 2025-04-01_20-05-43
-  organizationId: brushan
+  projectName: Tower Defense Udemy Tutorial
+  organizationId: unity_ydrzvxs_a2vreg
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
